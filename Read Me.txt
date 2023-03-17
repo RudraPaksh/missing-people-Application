@@ -1,0 +1,12 @@
+Step 1: open the above executable file.
+Step 2: Sign up if you are a new user. Then you can login.
+Step 3: If you want to login as the admin. Username: admin & Password: admin.
+
+
+-----------------------------------------------------------------------------------
+
+Alternate Method (If you want to open from eclipse)]
+Step 1: Open eclipse.
+Step 2: Open package explorer and then open our project 'Missing People Application' .
+Step 3: Open 'login' frame and then run.
+Step 4: If you want to login as the admin. Username: admin & Password: admin.
